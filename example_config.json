@@ -1,0 +1,13 @@
+{
+  "telegram": {
+    "token": "YOUR_TOKEN"
+  },
+  "files": {
+    "ai": "./plans/ai.pdf",
+    "ai_product": "./plans/ai_product.pdf"
+  },
+  "sites": {
+    "ai": "https://abit.itmo.ru/program/master/ai",
+    "ai_product": "https://abit.itmo.ru/program/master/ai_product"
+  }
+}
